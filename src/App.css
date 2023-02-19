@@ -5,8 +5,9 @@
 #root{
   font-family: 'Poppins', sans-serif;
 }
-
-
+.category-card:hover .arrow-icon{
+  fill: white;
+}
 
 /*
 #root {
