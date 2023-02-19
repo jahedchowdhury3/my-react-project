@@ -6,5 +6,6 @@ import Achivement from "./Achivement";
 import Categories from "./Categories";
 import Feedback from "./Feedback";
 import CTA from "./CTA"
+import Footer from "./Footer";
 
-export {Navbar,Hero,Companies,Courses,Achivement,Categories,Feedback,CTA}
+export {Navbar,Hero,Companies,Courses,Achivement,Categories,Feedback,CTA,Footer}
